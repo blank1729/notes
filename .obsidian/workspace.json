@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "b9cd9b4cda11fa0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "81b9d29f9da41c1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de28e48a4ac825a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e6c87144af6a279",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d0d7cdf72b70b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85317f21e9eb9ebe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43873447d263ed4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1197eedba89737d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb81d6b9f2c8dd07",
+    "type": "split",
+    "children": [
+      {
+        "id": "10c6cfd5d67536bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e9703325ece721",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating systems.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99bd0ff3689b0868",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f0a5e197125e868",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3803c79ef29e8702",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating systems.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de28e48a4ac825a0",
+  "lastOpenFiles": [
+    "README.md",
+    "Operating systems.md",
+    "Golang.md",
+    "cloud.md",
+    "6.0001/06.Recursion & Dictionaries.md",
+    "6.0001 Intro to Programming in python/06.Recursion & Dictionaries.md",
+    "6.0001 Intro to Programming in python",
+    "CS 162 Intro to Operating Systems/cs 162.md",
+    "cs 162.md",
+    "CS 162 Intro to Operating Systems",
+    "Untitled Folder",
+    "cs162.md",
+    "course-notes/cs162.md",
+    "programming-languages/golang.md",
+    "programming-languages",
+    "computer-science/Operating systems.md",
+    "computer-science",
+    "course-notes",
+    "6.0001"
+  ]
+}
