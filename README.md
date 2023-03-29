@@ -1,3 +1,5 @@
-# notes
+# Notes
 
-This repo contains my notes on wide variety of topics. Please rise an issue if you find any mistakes.
+## Course Wise
+- [Hacker 101](Course-Notes/hacker101/README)
+- 
