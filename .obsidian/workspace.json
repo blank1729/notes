@@ -13,13 +13,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating systems.md",
+                "file": "Topic Wise/operating systems/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "924f7219a8956363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course-Notes/Using Python to Interact with the Operating System/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5726f3b961793cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7a2ff9ed9ef3f9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Wise/AI/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78911cabe0d4a0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Wise/Frontend/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d886f2aa376f6eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Wise/Frontend/JavaScritpt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdc95cdd6941f076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Wise/golang/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e0347ee2ee3870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "205d99a342aa972b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Wise/golang/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -69,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 404.5
   },
   "right": {
     "id": "fb81d6b9f2c8dd07",
@@ -85,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating systems.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating systems.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating systems.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,26 +243,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de28e48a4ac825a0",
+  "active": "51e0347ee2ee3870",
   "lastOpenFiles": [
+    "Course-Notes/Using Python to Interact with the Operating System/is_it_worth_the_time.png",
+    "Topic Wise",
+    "Course-Notes",
     "README.md",
-    "Operating systems.md",
-    "Golang.md",
+    "Course-Notes/hacker101/imgs/Pasted image 20230329044901.png",
+    "hacker101/imgs.md",
+    "Course-Notes/hacker101/imgs",
+    "Topic Wise/golang/Backend.md",
+    "Topic Wise/golang/README.md",
+    "Topic Wise/AI/README.md",
+    "Topic Wise/Frontend/Browser APIs.md",
+    "Topic Wise/Frontend/JavaScritpt.md",
+    "Topic Wise/Frontend/README.md",
+    "Topic Wise/Frontend",
+    "Topic Wise/AI",
+    "Course-Notes/hacker101/README.md",
+    "Course-Notes/hacker101/imgs/Pasted image 20230329045338.png",
+    "Course-Notes/hacker101/imgs/Pasted image 20230329045253.png",
+    "Course-Notes/hacker101/imgs/Pasted image 20230329045203.png",
+    "Course-Notes/hacker101/imgs/Pasted image 20230329045138.png",
+    "Course-Notes/hacker101/imgs/Pasted image 20230329045112.png",
+    "Course-Notes/hacker101/imgs/Pasted image 20230329045040.png",
+    "Course-Notes/Using Python to Interact with the Operating System/README.md",
+    "Using Python to Interact with the Operating System/is_it_worth_the_time.png.crdownload",
+    "Topic Wise/operating systems/README.md",
+    "Course-Notes/Using Python to Interact with the Operating System",
+    "Course-Notes/CS 162 Intro to Operating Systems/README.md",
+    "Topic Wise/operating systems",
+    "CS 162 Intro to Operating Systems/cs 162.md",
+    "Topic Wise/python/README.md",
+    "Topic Wise/golang",
+    "Topic Wise/python",
     "cloud.md",
     "6.0001/06.Recursion & Dictionaries.md",
-    "6.0001 Intro to Programming in python/06.Recursion & Dictionaries.md",
-    "6.0001 Intro to Programming in python",
-    "CS 162 Intro to Operating Systems/cs 162.md",
+    "Course-Notes/6.0001 Intro to Programming in python/06.Recursion & Dictionaries.md",
     "cs 162.md",
-    "CS 162 Intro to Operating Systems",
-    "Untitled Folder",
     "cs162.md",
     "course-notes/cs162.md",
     "programming-languages/golang.md",
-    "programming-languages",
-    "computer-science/Operating systems.md",
-    "computer-science",
-    "course-notes",
-    "6.0001"
+    "computer-science/Operating systems.md"
   ]
 }
