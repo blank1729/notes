@@ -90,9 +90,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "30d2b44ffe044b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Wise/Linux/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e0b76c76828975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topic Wise/AI/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03b82f76d3ae2fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sciences/Physics/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -158,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topic Wise/NodeJs/README.md",
+                "file": "Sciences/Physics/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topic Wise/NodeJs/README.md",
+                "file": "Sciences/Physics/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topic Wise/NodeJs/README.md"
+                "file": "Sciences/Physics/README.md"
               }
             }
           }
@@ -221,9 +257,18 @@
   },
   "active": "85317f21e9eb9ebe",
   "lastOpenFiles": [
-    "Topic Wise/NodeJs",
+    "Sciences/Physics",
+    "Sciences/Physics/imgs/Pasted image 20230331125634.png",
+    "Sciences/Physics/imgs",
+    "Sciences/Physics/imgs/Pasted image 20230331120911.png",
     "Topic Wise/AI/README.md",
+    "Sciences/Physics/README.md",
+    "Sciences",
+    "Random/README.md",
+    "Topic Wise/Linux/README.md",
     "Topic Wise/NodeJs/README.md",
+    "Topic Wise/Linux",
+    "Topic Wise/NodeJs",
     "Random/Blender.md",
     "Random/Life Advices.md",
     "Random/Philosophy.md",
@@ -248,22 +293,15 @@
     "Course-Notes",
     "Course-Notes/hacker101/imgs/Pasted image 20230329044901.png",
     "hacker101/imgs.md",
-    "Course-Notes/hacker101/imgs",
     "Topic Wise/golang/Backend.md",
     "Topic Wise/Frontend/Browser APIs.md",
-    "Topic Wise/Frontend",
-    "Topic Wise/AI",
     "Course-Notes/hacker101/imgs/Pasted image 20230329045338.png",
     "Course-Notes/hacker101/imgs/Pasted image 20230329045253.png",
     "Course-Notes/hacker101/imgs/Pasted image 20230329045203.png",
     "Course-Notes/hacker101/imgs/Pasted image 20230329045138.png",
     "Course-Notes/hacker101/imgs/Pasted image 20230329045112.png",
     "Course-Notes/hacker101/imgs/Pasted image 20230329045040.png",
-    "Using Python to Interact with the Operating System/is_it_worth_the_time.png.crdownload",
     "Course-Notes/CS 162 Intro to Operating Systems/README.md",
-    "CS 162 Intro to Operating Systems/cs 162.md",
-    "Topic Wise/python/README.md",
-    "cloud.md",
-    "6.0001/06.Recursion & Dictionaries.md"
+    "CS 162 Intro to Operating Systems/cs 162.md"
   ]
 }
